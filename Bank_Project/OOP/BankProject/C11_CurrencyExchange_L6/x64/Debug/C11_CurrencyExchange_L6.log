@@ -1,0 +1,25 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (C11_CurrencyExchange_L6.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BankProject.cpp
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsString.h(38,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsString.h(43,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsString.h(54,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsString.h(196,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsString.h(332,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsString.h(382,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsUtil.h(63,5): warning C4102: 'defualt': unreferenced label
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsUser.h(158,2): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsUser.h(34,9): message : see declaration of 'clsUser::stLoginRegisterRecord'
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsBankClient.h(175,2): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsBankClient.h(154,9): message : see declaration of 'clsBankClient::stTransferLogRecord'
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsBankClient.h(28,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsBankClient.h(373,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsBankClient.h(385,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsTotalBalancesScreen.h(56,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsTransactionsScreen.h(124,37): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsManageUsersScreen.h(125,37): warning C4129: 'M': unrecognized character escape sequence
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsCurrency.h(24,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsFindCurrencyScreen.h(14,11): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsUpdateCurrencyRateScreen.h(23,11): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsBankClient.h(369): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\abdel\Bank_Project\OOP\BankProject\C11_CurrencyExchange_L6\clsUser.h(313): warning C4715: 'clsUser::Save': not all control paths return a value
+  C11_CurrencyExchange_L6.vcxproj -> C:\Users\abdel\Bank_Project\OOP\BankProject\x64\Debug\BankProject.exe
