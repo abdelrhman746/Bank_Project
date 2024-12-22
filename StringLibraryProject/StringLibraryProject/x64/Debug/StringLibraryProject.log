@@ -1,8 +1,0 @@
-﻿  StringLibraryProject.cpp
-C:\Users\abdel\source\repos\StringLibraryProject\StringLibraryProject\clsString.h(38,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\abdel\source\repos\StringLibraryProject\StringLibraryProject\clsString.h(43,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\abdel\source\repos\StringLibraryProject\StringLibraryProject\clsString.h(54,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\abdel\source\repos\StringLibraryProject\StringLibraryProject\clsString.h(196,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\abdel\source\repos\StringLibraryProject\StringLibraryProject\clsString.h(332,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\abdel\source\repos\StringLibraryProject\StringLibraryProject\clsString.h(382,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
-  StringLibraryProject.vcxproj -> C:\Users\abdel\source\repos\StringLibraryProject\x64\Debug\StringLibraryProject.exe
