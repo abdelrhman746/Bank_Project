@@ -1,8 +1,0 @@
-﻿  PeriodLibraryProject.cpp
-C:\Users\abdel\source\repos\PeriodLibraryProject\PeriodLibraryProject\clsString.h(38,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\abdel\source\repos\PeriodLibraryProject\PeriodLibraryProject\clsString.h(43,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\abdel\source\repos\PeriodLibraryProject\PeriodLibraryProject\clsString.h(54,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\abdel\source\repos\PeriodLibraryProject\PeriodLibraryProject\clsString.h(196,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\abdel\source\repos\PeriodLibraryProject\PeriodLibraryProject\clsString.h(332,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\abdel\source\repos\PeriodLibraryProject\PeriodLibraryProject\clsString.h(382,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
-  PeriodLibraryProject.vcxproj -> C:\Users\abdel\source\repos\PeriodLibraryProject\x64\Debug\PeriodLibraryProject.exe
