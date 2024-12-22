@@ -1,8 +1,0 @@
-﻿  DateLibraryProject.cpp
-C:\Users\abdel\source\repos\DateLibraryProject\DateLibraryProject\clsString.h(38,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\abdel\source\repos\DateLibraryProject\DateLibraryProject\clsString.h(43,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\abdel\source\repos\DateLibraryProject\DateLibraryProject\clsString.h(54,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\abdel\source\repos\DateLibraryProject\DateLibraryProject\clsString.h(196,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\abdel\source\repos\DateLibraryProject\DateLibraryProject\clsString.h(332,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\abdel\source\repos\DateLibraryProject\DateLibraryProject\clsString.h(382,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
-  DateLibraryProject.vcxproj -> C:\Users\abdel\source\repos\DateLibraryProject\x64\Debug\DateLibraryProject.exe
